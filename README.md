@@ -55,7 +55,7 @@ pip install --upgrade xlsxwriter
 ```
 Ejecutamos el bot
 ```bash
-python3 bot.py
+python3 tata.py
 ```
 
 
