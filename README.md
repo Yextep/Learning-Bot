@@ -4,7 +4,7 @@ Este bot es capaz de responder preguntas basadas en una base de datos predefinid
 
 # Estructura del codigo:
 
-<img align="right" height="400" width="400" alt="GIF" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/c6e08da9-b125-44c5-85b3-ed958c36a34d"/>
+<img align="right" height="400" width="400" alt="GIF" src="https://github.com/Yextep/Learning-Bot/assets/114537444/f4696460-3cbf-4c36-921d-a42d815c469d"/>
 
 **Conexión a la base de datos:** En esta sección, establecemos una conexión a la base de datos SQLite y creamos una tabla para almacenar las preguntas y respuestas.
 
